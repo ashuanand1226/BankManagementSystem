@@ -24,6 +24,8 @@ dependencies {
     implementation("com.google.guava:guava:31.1-jre")
 
     implementation("com.toedter:jcalendar:1.4")
+
+    implementation("mysql:mysql-connector-java:8.0.28")
 }
 
 application {
